@@ -1,0 +1,3 @@
+LC_NUMERIC=C awk '/9538/' custom_disco.m3u8 | awk -F "/" '{print "ffmpeg -i " $0  " -vn -c:a copy raw_files/" $NF ".aac"}' > get_aac.sh
+find -iname "*.aac" | awk '{print "ffmpeg -i " $0 " -f  mpegts -acodec copy " $0 ".ts"}' > to_ts.sh
+find -iname "*.aac" | awk '{print "ffprobe " $0"}' > ffprobe.sh
