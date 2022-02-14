@@ -15,6 +15,7 @@ https://yats-alex.s3.us-west-1.amazonaws.com/disco/pri-aac96-1631739397-5480-371
 https://yats-alex.s3.us-west-1.amazonaws.com/disco/pri-aac96-1631739403-5480-37160.ts
 #EXTINF:2.508,
 https://yats-alex.s3.us-west-1.amazonaws.com/disco/pri-aac96-1631739408-2507-37161.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:7.0119996,
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/ts/9538100.aac.ts?raw=true
 #EXTINF:7.0119996,

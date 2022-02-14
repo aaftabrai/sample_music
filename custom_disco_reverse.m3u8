@@ -13,6 +13,7 @@ https://github.com/aaftabrai/sample_music/blob/main/raw_files/ts/9538102.aac.ts?
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/ts/9538103.aac.ts?raw=true
 #EXTINF:2.0670002,
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/ts/9538104.aac.ts?raw=true
+#EXT-X-DISCONTINUITY
 #EXTINF:5.48,
 https://yats-alex.s3.us-west-1.amazonaws.com/disco/pri-aac96-1631739381-5480-37156.ts
 #EXTINF:5.48,
