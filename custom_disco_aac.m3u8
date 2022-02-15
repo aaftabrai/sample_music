@@ -15,6 +15,7 @@ https://github.com/aaftabrai/sample_music/blob/main/raw_files/aac/pri-aac96-1631
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/aac/pri-aac96-1631739403-5480-37160.ts.aac?raw=true
 #EXTINF:2.508,
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/aac/pri-aac96-1631739408-2507-37161.ts.aac?raw=true
+#EXT-X-DISCONTINUITY
 #EXTINF:7.0119996,
 https://github.com/aaftabrai/sample_music/blob/main/raw_files/aac/9538100.aac?raw=true
 #EXTINF:7.0119996,
